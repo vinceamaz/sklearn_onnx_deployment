@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/DataScienceProjects/sklearn_onnx_deployment/out/build/x64-Debug/onnx_inference/CMakeFiles/sklearn_onnx_deployment.dir/embed.manifest"
